@@ -1,0 +1,40 @@
+mes                 , febrero
+
+Hora                  ,lunes 13                 ,    martes 14       , miercoles 15    ,   jueves 16          , viernes 17           ,sabado 18            ,domingo 19
+6-8   am            , 		  	         ,calculo integral  ,fisica mecanica,calculo integral   ,fisica mecanica   ,info II tareas/stdy
+8-10 am            ,fisica selfstudy      ,informatica II     ,				, informatica II      ,inglès homework	
+10:15-11:30 am, lineal selfstudy     , lineal selfstudy ,lineal selfstudy ,lineal selfstudy    ,fisica selfstudy             
+1-4   pm            ,				 ,			      ,				,			      , lab. infromatica
+2-4   pm            , calculo selfstdy    , calculo selfstdy,fisica selfstudy	,calculo selfstdy      
+6-8   pm            , inglès homework	 ,inglés V               ,  algebra lineal  , inglés V              , algebra lineal    
+8:15-9:50     pm,info II tareas/stdy  ,info II tareas/stdy,			,info II tareas/stdy
+
+mes                 , febrero
+Hora                 ,lunes 20                 ,    martes 21       , miercoles 22    ,   jueves 23          , viernes 24           ,sabado 25            ,domingo 26
+6-8   am            , 		  	         ,calculo integral  ,fisica mecanica,calculo integral   ,fisica mecanica   ,info II tareas/stdy
+8-10 am            ,fisica selfstudy      ,informatica II     ,				, informatica II      ,inglès homework	
+10:15-11:30 am, lineal selfstudy     , lineal selfstudy ,lineal selfstudy ,lineal selfstudy    ,fisica selfstudy             
+1-4   pm            ,				 ,			      ,				,			      , lab. infromatica
+2-4   pm            , calculo selfstdy    , calculo selfstdy,fisica selfstudy	,calculo selfstdy         
+6-8   pm            , inglès homework	 ,inglés V               ,  algebra lineal  , inglés V              , algebra lineal    
+8:15-9:50     pm,info II tareas/stdy  ,info II tareas/stdy,			,info II tareas/stdy
+
+mes                 , febrero/marzo
+Hora                 ,lunes 27                 ,    martes 28       , miercoles 1     ,   jueves 2            , viernes 3              ,sabado 4             ,domingo 5
+6-8   am            , 		  	         ,calculo integral  ,fisica mecanica,calculo integral   ,fisica mecanica   ,info II tareas/stdy
+8-10 am            ,fisica selfstudy      ,informatica II     ,				, informatica II      ,inglès homework	
+10:15-11:30 am, lineal selfstudy     , lineal selfstudy ,lineal selfstudy ,lineal selfstudy    ,fisica selfstudy             
+1-4   pm            ,				 ,			      ,				,			      , lab. infromatica
+2-4   pm            , calculo selfstdy    , calculo selfstdy,fisica selfstudy	,calculo selfstdy       
+6-8   pm            , inglès homework	 ,inglés V               ,  algebra lineal  , inglés V              , algebra lineal    
+8:15-9:50     pm,info II tareas/stdy  ,info II tareas/stdy,			,info II tareas/stdy
+
+mes                 , marzo
+Hora                 ,lunes 6                   ,    martes 7         , miercoles 8      ,   jueves 9            , viernes 10           ,sabado 11            ,domingo 12
+6-8   am            , 		  	         ,calculo integral  ,fisica mecanica,calculo integral   ,fisica mecanica   ,info II tareas/stdy
+8-10 am            ,fisica selfstudy      ,informatica II     ,				, informatica II      ,inglès homework	
+10:15-11:30 am, lineal selfstudy     , lineal selfstudy ,lineal selfstudy ,lineal selfstudy    ,fisica selfstudy             
+1-4   pm            ,				 ,			      ,				,			      , lab. infromatica
+2-4   pm            , calculo selfstdy    , calculo selfstdy,fisica selfstudy	,calculo selfstdy         
+6-8   pm            , inglès homework	 ,inglés V               ,  algebra lineal  , inglés V              , algebra lineal    
+8:15-9:50     pm,info II tareas/stdy  ,info II tareas/stdy,			,info II tareas/stdy
